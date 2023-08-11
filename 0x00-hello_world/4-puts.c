@@ -5,7 +5,7 @@
  * Description: A C program that prints
  *
  * Return: Always 0 (success)
- * */
+*/
 
 int main(void)
 {
