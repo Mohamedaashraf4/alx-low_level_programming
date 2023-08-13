@@ -11,7 +11,7 @@
  * Return: 0 (success)
 */
 
-	int main(void)
+int main(void)
 {
 	int n, digit;
 
