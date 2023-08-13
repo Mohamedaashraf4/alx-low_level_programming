@@ -5,7 +5,7 @@
 /**
  * main -entry point
  *
- * Description: false and true validatio
+ * Description: false or true validatio
  *
  * return: 0 (success)
 */
