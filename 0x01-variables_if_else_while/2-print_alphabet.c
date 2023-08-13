@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Descreption: print all alphabet letters
+ * Description: print all alphabet letters
  *
- * Return aleays 0 (success)
+ * Return Always 0 (success)
 */
 
 int main(void)
