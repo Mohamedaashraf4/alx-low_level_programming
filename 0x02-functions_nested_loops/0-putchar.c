@@ -1,15 +1,12 @@
 #include "main.h"
-
 /**
- * main: - print _putchar
+ * main - print _putchar
  *
- * Description: prints putchar using putchar prototype
+ * is written by mbah
  *
- * Return: 0
+ * Return:  Always 0 (success)
 */
-
-
-	int main(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
