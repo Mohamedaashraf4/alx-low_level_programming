@@ -2,29 +2,6 @@
 
 
 	/**
-	 * main - check the code
-	 *
-	 * Return: Always 0.
-	 */
-	int main(void)
-	{
-	    print_alphabet();
-	    return (0);
-	}
-
-
-
-=====================================
-
-
-2-print_alphabet_x10.c CODE
-
-
-
-#include "main.h"
-
-
-	/**
 	 * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
 	 * followed by a new line
 	 */
@@ -49,3 +26,4 @@
 			i++;
 		}
 	}
+
