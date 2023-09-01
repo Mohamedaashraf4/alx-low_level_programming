@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isupper - chech if c is upper
  *
@@ -12,5 +13,5 @@ int _isupper(int c)
 	if (c >= '65' && c <= '90')
 		return (1);
 	else if
-	return (0);
+		return (0);
 }
